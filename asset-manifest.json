@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9870d240.css",
+    "main.js": "/static/js/main.dd96351f.js",
+    "static/media/space.mp4": "/static/media/space.4573d6632bc1b9b6b928.mp4",
+    "static/media/mongodb-logo.png": "/static/media/mongodb-logo.95ebe78cca60e67709b4.png",
+    "static/media/craco-logo.png": "/static/media/craco-logo.a6d5fddd0c091ac846c3.png",
+    "static/media/nextjs-logo.png": "/static/media/nextjs-logo.9aaa9a5ab0ad47fe316a.png",
+    "index.html": "/index.html",
+    "main.9870d240.css.map": "/static/css/main.9870d240.css.map",
+    "main.dd96351f.js.map": "/static/js/main.dd96351f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9870d240.css",
+    "static/js/main.dd96351f.js"
+  ]
+}
